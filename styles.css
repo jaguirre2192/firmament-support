@@ -22,6 +22,7 @@ p { margin: 0 0 20px; }
 section { padding: 28px 0; border-top: 1px solid var(--line); }
 section:first-of-type { margin-top: 35px; }
 .button { display: inline-block; padding: 13px 19px; border-radius: 7px; background: var(--ink); color: var(--paper); text-decoration: none; letter-spacing: .01em; }
+.button:hover { background: var(--coral); color: var(--paper); }
 ul { padding-left: 24px; }
 li { margin: 8px 0; }
 footer { margin-top: 45px; padding-top: 22px; border-top: 1px solid var(--line); color: var(--muted); }
